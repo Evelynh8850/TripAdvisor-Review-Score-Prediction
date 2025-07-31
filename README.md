@@ -16,4 +16,5 @@ TripAdvisor 評論分數預測：從文字前處理到模型優化
 整體而言，TF-IDF 向量化與建模參數調整皆可帶來指標上的微幅成長，但準確率提升有限。
 未來將嘗試導入隨機森林等更進階的分類模型，以改善整體準確度與中低分類別的預測表現。
 
+專題簡報
 https://drive.google.com/file/d/1h8kaNuIIQVlqo-rgMOuOrlPkJBOHtHFV/view?usp=sharing
